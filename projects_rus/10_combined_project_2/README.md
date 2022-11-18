@@ -18,16 +18,9 @@
 - scipy
 - math
 - datetime
-- copy
 - matplotlib
 - seaborn
-- sklearn.model_selection
-- sklearn.linear_model
-- sklearn.ensemble
-- sklearn.preprocessing
-- sklearn.metrics
-- scipy.cluster.hierarchy
-- sklearn.cluster
+- plotly
 
 **Общий вывод**
 ---
