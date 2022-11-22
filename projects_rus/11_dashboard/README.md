@@ -16,4 +16,6 @@
 - pandas
 - create_engine
 
+**Ссылка на дашборд**
+---
 [Dashboard](https://public.tableau.com/app/profile/damir2910/viz/da_49_DS_Yandex_Dzen/_?publish=yes)
