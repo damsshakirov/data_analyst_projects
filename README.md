@@ -1,6 +1,6 @@
-# data_analyst_projects_rus
+# Projects
 
-| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
+| #    | Project Name                | Description                                                     | Stack                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Statistical Data Analysis - Определение перспективного тарифа для телеком-компании](https://github.com/damsshakirov/data_analyst_projects/tree/main/projects_rus/1_statistical_data_analysis) | description <br/> description <br/> desc | python, pandas, numpy       |
 | 2.   | [Patterns Investigation of Video Games Online Store's Sales](https://github.com/damsshakirov/data_analyst_projects/tree/main/projects_rus/2_combined_project_1) | desc <br/>desc <br/>desc | python, pandas, numpy |
