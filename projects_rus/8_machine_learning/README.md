@@ -14,7 +14,6 @@
 ---
 - pandas
 - numpy
-- copy
 - matplotlib
 - seaborn
 - sklearn.model_selection
