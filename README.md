@@ -1,5 +1,3 @@
-# Projects
-
 | #    | Project Name                | Description                                                     | Stack                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Determining the Optimal Tariff for a Telecom Company](https://github.com/damsshakirov/data_analyst_projects/tree/main/projects_rus/1_statistical_data_analysis) | Statistical Data Analysis <br/>  <br/>  | python, pandas, numpy, scipy, <br/> matplotlib |
