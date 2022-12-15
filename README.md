@@ -1,5 +1,5 @@
-| #    | Project Name           | Field              | Direction   | Skills      | Stack    |
-| ---- | -----------------------| ------------------ | ----------- | ----------- | -------- |
+| #    | <div style="width:190px">Project Name</div>           | Field              | Direction   | Skills      | Stack    |
+| ---- | ---------------------------------| ------------------ | ----------- | ----------- | -------- |
 | 1.   | [Determining Optimal Tariff for Telecom Company](https://github.com/damsshakirov/data_analyst_projects/tree/main/projects_rus/1_statistical_data_analysis) | Telecom | Marketing Analyst, Product Analyst, <br/> Data Analyst | Statistical Hypotheses Testing | python, pandas, numpy, scipy, <br/> matplotlib |
 | 2.   | [Patterns Investigation of Video Games Online Store's Sales](https://github.com/damsshakirov/data_analyst_projects/tree/main/projects_rus/2_combined_project_1) | Gamedev, On-line shop | Marketing Analyst, Product Analyst | User Portrait Analysis, <br/> Statistical Hypotheses Testing | python, pandas, numpy, scipy, <br/> matplotlib |
 | 3.   | [Marketing Analysis of App 'Procrastinate Pro+'](https://github.com/damsshakirov/data_analyst_projects/tree/main/projects_rus/3_business_metrics_analysis) | Startups, Internet Services | Marketing Analyst, Product Analyst | Cohort Analysis, Unit-Economics | python, pandas, numpy, datetime, <br/> matplotlib |
