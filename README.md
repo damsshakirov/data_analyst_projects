@@ -2,7 +2,7 @@ Projects related to data analysis, marketing analysis, product analysis and data
 
 | #    | Project Name          | Field              | Skills      | Stack    |
 | ---- | ----------------------| ------------------ | ----------- | -------- |
-| 1.   | [Determining Optimal Tariff for Telecom Company](https://github.com/damsshakirov/data_analyst_projects/tree/main/projects_rus/1_statistical_data_analysis) | Telecom | Statistical Hypotheses Testing | python, pandas, numpy, scipy, <br/> matplotlib |
+| 1.   | [Determining Optimal Tariff for Telecom Company](https://github.com/damsshakirov/data_analyst_projects/tree/main/projects_rus/1_Determining Optimal Tariff for Telecom Company) | Telecom | Statistical Hypotheses Testing | python, pandas, numpy, scipy, <br/> matplotlib |
 | 2.   | [Analysis of Video Games Online Store's Sales](https://github.com/damsshakirov/data_analyst_projects/tree/main/projects_rus/2_combined_project_1) | Gamedev, On-line shop |  User Portrait Analysis, <br/> Statistical Hypotheses Testing | python, pandas, numpy, scipy, <br/> matplotlib |
 | 3.   | [Marketing Analysis of App 'Procrastinate Pro+'](https://github.com/damsshakirov/data_analyst_projects/tree/main/projects_rus/3_business_metrics_analysis) | Startups, Internet Services | Cohort Analysis, Unit-Economics | python, pandas, numpy, datetime, <br/> matplotlib |
 | 4.   | [On-line Shop Revenue Increase](https://github.com/damsshakirov/data_analyst_projects/tree/main/projects_rus/4_decision_making_in_business) | On-line shop | A/B-tests, Statistical Hypotheses Testing | python, pandas, numpy, datetime, math, scipy, matplotlib |
